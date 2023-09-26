@@ -19,6 +19,13 @@ public class TestCase_002 {
         -> Pull request
         -> New pull request
         -> choose the Compare repository name
+
+        -> Create pull request
+        -> Create pull request
+        -> Merge pull request
+        -> Confirm merge
+        -> go to IntellIJ checkout local master
+        -> Update Project
          */
 
 
