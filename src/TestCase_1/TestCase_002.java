@@ -12,6 +12,15 @@ public class TestCase_002 {
         -> Push the files
          */
 
+        /*
+        Pull request
+        -> go to GitHub web
+        -> Enter to repository
+        -> Pull request
+        -> New pull request
+        -> choose the Compare repository name
+         */
+
 
 
 
