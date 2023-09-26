@@ -8,4 +8,6 @@ public class TC_003 {
     // make commit second time
 
     // we pull request from feature-a to develope
+
+    // we repeat line 10
 }
